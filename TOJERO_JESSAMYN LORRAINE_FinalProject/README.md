@@ -49,6 +49,8 @@ Users can easily create unlimited playlists, add songs with mood notes for keepi
 # Author
 STUDENT: TOJERO, JESSAMYN LORRAINE S.
 Section: BSCS 1A
+Instructor: ALLAN IBO JR.
+Course: INTERMEDIATE PROGRAMMING
 Course: INTRODUCTION TO PROGRAMMING
 Instructor: ALLAN IBO JR.
 FINAL PROJECT
