@@ -1,0 +1,241 @@
+[
+    {
+        "name": "Soft Pop Night",
+        "songs": [
+            {
+                "title": "the boy is mine",
+                "artist": "Ariana Grande",
+                "duration_seconds": 310,
+                "mood_note": ""
+            },
+            {
+                "title": "Sk8er Boi",
+                "artist": "Avril Lavigne",
+                "duration_seconds": 318,
+                "mood_note": ""
+            },
+            {
+                "title": "Waiting Outside The Lines",
+                "artist": "Greyson Chance",
+                "duration_seconds": 312,
+                "mood_note": ""
+            },
+            {
+                "title": "Nightingale Lane",
+                "artist": "Raye",
+                "duration_seconds": 345,
+                "mood_note": ""
+            },
+            {
+                "title": "Sense",
+                "artist": "Mico",
+                "duration_seconds": 213,
+                "mood_note": ""
+            },
+            {
+                "title": "When you look me in the eyes",
+                "artist": "Jonas Brothers",
+                "duration_seconds": 318,
+                "mood_note": ""
+            },
+            {
+                "title": "Two Little Hearts",
+                "artist": "Ray Hou",
+                "duration_seconds": 219,
+                "mood_note": ""
+            }
+        ]
+    },
+    {
+        "name": "Yearning Hour",
+        "songs": [
+            {
+                "title": "Actor",
+                "artist": "Conan Gray",
+                "duration_seconds": 314,
+                "mood_note": ""
+            },
+            {
+                "title": "Vodka Cranberry",
+                "artist": "Conan Gray",
+                "duration_seconds": 312,
+                "mood_note": ""
+            },
+            {
+                "title": "Class Clown",
+                "artist": "Conan Gray",
+                "duration_seconds": 214,
+                "mood_note": ""
+            },
+            {
+                "title": "Do I Dare",
+                "artist": "Conan Gray",
+                "duration_seconds": 315,
+                "mood_note": ""
+            },
+            {
+                "title": "Moths",
+                "artist": "Conan Gray",
+                "duration_seconds": 317,
+                "mood_note": ""
+            },
+            {
+                "title": "Door",
+                "artist": "Conan Gray",
+                "duration_seconds": 412,
+                "mood_note": ""
+            },
+            {
+                "title": "Wish You Were Sober",
+                "artist": "Conan Gray",
+                "duration_seconds": 412,
+                "mood_note": ""
+            },
+            {
+                "title": "Maniac",
+                "artist": "Conan Gray",
+                "duration_seconds": 315,
+                "mood_note": ""
+            },
+            {
+                "title": "Fight or Flight",
+                "artist": "Conan Gray",
+                "duration_seconds": 319,
+                "mood_note": ""
+            },
+            {
+                "title": "Wish U",
+                "artist": "16",
+                "duration_seconds": 319,
+                "mood_note": ""
+            },
+            {
+                "title": "Nebula",
+                "artist": "The Rose",
+                "duration_seconds": 319,
+                "mood_note": ""
+            },
+            {
+                "title": "Four Five Seconds",
+                "artist": "Rihanna",
+                "duration_seconds": 213,
+                "mood_note": ""
+            },
+            {
+                "title": "Muli",
+                "artist": "Ace Banzuelo",
+                "duration_seconds": 314,
+                "mood_note": ""
+            },
+            {
+                "title": "Waltz For Moon",
+                "artist": "Hodge",
+                "duration_seconds": 218,
+                "mood_note": ""
+            },
+            {
+                "title": "Kabisado",
+                "artist": "IV OF SPADE",
+                "duration_seconds": 318,
+                "mood_note": ""
+            },
+            {
+                "title": "AUTUMN",
+                "artist": "Ben & Ben",
+                "duration_seconds": 318,
+                "mood_note": ""
+            }
+        ]
+    },
+    {
+        "name": "C:\\Users\\ADMIN\\AppData\\Local\\Programs\\Python\\Python314\\python.exe c:/Users/ADMIN/Documents/Desktop/mm/src/Main.py",
+        "songs": []
+    },
+    {
+        "name": "Comfort Home",
+        "songs": [
+            {
+                "title": "JAmais Vu",
+                "artist": "BTS",
+                "duration_seconds": 318,
+                "mood_note": ""
+            },
+            {
+                "title": "I'm in the mood for dancing",
+                "artist": "yuju",
+                "duration_seconds": 318,
+                "mood_note": ""
+            },
+            {
+                "title": "Crystal Snow",
+                "artist": "BTS",
+                "duration_seconds": 314,
+                "mood_note": ""
+            },
+            {
+                "title": "Sudden Shower",
+                "artist": "ECLIPSE",
+                "duration_seconds": 318,
+                "mood_note": ""
+            },
+            {
+                "title": "ORANGE",
+                "artist": "TREASURE",
+                "duration_seconds": 319,
+                "mood_note": ""
+            },
+            {
+                "title": "HOME",
+                "artist": "SEVENTEEN",
+                "duration_seconds": 412,
+                "mood_note": ""
+            },
+            {
+                "title": "MY TREASURE",
+                "artist": "TREASURE",
+                "duration_seconds": 418,
+                "mood_note": ""
+            },
+            {
+                "title": "DARARI",
+                "artist": "TREASURE",
+                "duration_seconds": 316,
+                "mood_note": ""
+            }
+        ]
+    },
+    {
+        "name": "POP ROCKS",
+        "songs": [
+            {
+                "title": "One Click Straight",
+                "artist": "MRt",
+                "duration_seconds": 312,
+                "mood_note": ""
+            }
+        ]
+    },
+    {
+        "name": "My Life is a Movie Vibe",
+        "songs": [
+            {
+                "title": "End of Beginning",
+                "artist": "Djo",
+                "duration_seconds": 318,
+                "mood_note": "AAaAAaaaaa"
+            },
+            {
+                "title": "Robbers",
+                "artist": "The 1975",
+                "duration_seconds": 312,
+                "mood_note": ""
+            },
+            {
+                "title": "Fade into You",
+                "artist": "Mazzy Star",
+                "duration_seconds": 315,
+                "mood_note": ""
+            }
+        ]
+    }
+]
