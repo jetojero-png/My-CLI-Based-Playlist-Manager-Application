@@ -1,3 +1,10 @@
+Student: JESSAMYN LORRAINE S. TOJERO
+Program & Section: BSCS 1A
+Course: INTERMEDIATE PROGRAMMING
+Instructor: ALLAN IBO JR.
+FINAL PROJECT
+(https://youtu.be/Q4An48fauaw?si=pci0qM1hP2AHTdzy)
+
 # Project Overview
 This Python Application reflects my music playlists. I prefer my playlist to be organized and to keep the music vibe all through out listening hours. This CLI based application follows a modular design and Object Oriented Programming (OOP) principles with clean separation of data, logic and user inteface.
 
@@ -26,9 +33,9 @@ Users can easily create unlimited playlists, add songs with mood notes for keepi
 
 # Advanced Python Concepts Used
  
-1. List Comprehension - Filter/search data in one line ( Playlist.py  Line 99,  main.py  Line 272)
-2. Context Manager - Safe file handling ( main.py  Line 53, 80)
-3.  @classmethod - Create objects from saved JSON ( Song.py  Line 67,  Playlist.py  Line 139)
+1. List Comprehension - Filters and searchs data in one line
+2. Context Manager - Safe file handling 
+3.  @classmethod - Create objects from saved JSON 
 4. Magic/Dunder Methods -  _str_ ,  _eq_ ,  _hash_  for clean object behavior
 5. Type Hints - Clear data types for readability & error prevention
 6. Error Handling ( try...except ) → Handles missing files, corrupted data, invalid input
@@ -44,12 +51,6 @@ Users can easily create unlimited playlists, add songs with mood notes for keepi
     - Create: Make a new empty playlist
     - Manage: Add/remove/sort/view songs inside a playlist
     - Search: Find any song by keyword or artist
+    - Save & Exit: Saves everything automatically
 
-- Save & Exit: Saves everything automatically
-# Author
-STUDENT: TOJERO, JESSAMYN LORRAINE S.
-Section: BSCS 1A
-Instructor: ALLAN IBO JR.
-Course: INTERMEDIATE PROGRAMMING (Final Project)
-Instructor: ALLAN IBO JR.
 FINAL PROJECT
